@@ -1,7 +1,7 @@
 {
   "name": "hapi-auth-passwordless",
   "description": "Passwordless authentication plugin for Hapi",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "repository": "https://github.com/nrotta/hapi-auth-passwordless",
   "main": "lib/index.js",
   "keywords": [
